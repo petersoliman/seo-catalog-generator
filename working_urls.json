@@ -1,0 +1,72 @@
+{
+    "discovery_time": "2025-08-11 16:24:39",
+    "source_url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/",
+    "total_working_urls": 13,
+    "working_urls": [
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/dl\/dealerlocator\/dealersearch\/",
+            "text": "Dealer Locator",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/",
+            "text": "Tools",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/measuring-technology-131410-ocs-c\/",
+            "text": "Measuring tools",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/accessories-2790339-ocs-ac\/",
+            "text": "Accessories",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/dl\/dealerlocator\/dealersearch\/",
+            "text": "Dealer Locator",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/#",
+            "text": "Back",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/#",
+            "text": "Back",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/#",
+            "text": "Back",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.boschtoolservice.com\/eg\/en\/bosch-pt\/spareparts\/search",
+            "text": "Find Spare Parts",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/services\/downloads\/user-manuals\/index.html",
+            "text": "User Manuals",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/dl\/dealerlocator\/dealersearch\/",
+            "text": "Dealer Locator",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/#",
+            "text": "Close",
+            "type": "potential_category"
+        },
+        {
+            "url": "https:\/\/www.bosch-professional.com\/eg\/en\/professional-power-tools-131398-ocs-c\/#",
+            "text": "Reload now",
+            "type": "potential_category"
+        }
+    ]
+}

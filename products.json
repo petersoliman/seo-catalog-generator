@@ -1,0 +1,1136 @@
+{
+    "@type": "ItemList",
+    "numberOfItems": 47,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 12V-30",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-12v-30-06019G9100",
+                "sku": "06019G9100",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o379577v54_GSB_12V-30_2Ah_metalchuck_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 10873.31,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-12v-30-06019G9100"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Product",
+                "name": "GRO 12V-35",
+                "url": "https://www.bosch-professional.com/eg/en/products/gro-12v-35-06019C5001",
+                "sku": "06019C5001",
+                "category": "12 Volt system",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o240325v54_P_A_GRO_12V-35_1_5Ah_2_0Ah_2_5Ah_H1_AC_dyn-Kit.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 11340.19,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gro-12v-35-06019C5001"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Product",
+                "name": "2 x GBA 12V 2.0Ah + GAL 12V-40",
+                "url": "https://www.bosch-professional.com/eg/en/products/2-x-gba-12v-2-0ah-gal-12v-40-1600A019R8",
+                "sku": "1600A019R8",
+                "category": "Batteries & chargers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o286630v54_Starterset_GAL_12V-40_2x_GBA_12V_2_0Ah_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 4005.52,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/2-x-gba-12v-2-0ah-gal-12v-40-1600A019R8"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Product",
+                "name": "GDR 120-LI Kit",
+                "url": "https://www.bosch-professional.com/eg/en/products/gdr-120-li-kit-06019F0001",
+                "sku": "06019F0001",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o309832v54_GDR120_dyn_02.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 8532.04,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gdr-120-li-kit-06019F0001"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "Product",
+                "name": "GIS 1000 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gis-1000-c-0601083300",
+                "sku": "0601083300",
+                "category": "Thermo cameras & detectors",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o345566v54_GIS_1000_C_second_generation_humgis002_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 0,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gis-1000-c-0601083300"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "Product",
+                "name": "GIC 12V-5-27 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gic-12v-5-27-c-0601241400",
+                "sku": "0601241400",
+                "category": "Inspection cameras",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o405868v54_GIC_12V-5-27_C_on_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 18810,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gic-12v-5-27-c-0601241400"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "Product",
+                "name": "D-tect 120 wall scanner",
+                "url": "https://www.bosch-professional.com/eg/en/products/d-tect-120-wall-scanner-0601081303",
+                "sku": "0601081303",
+                "category": "Detectors",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o167488v54_P_A_Bosch_D-tect120_Product_persp_fin_V2.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 11464.34,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/d-tect-120-wall-scanner-0601081303"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Product",
+                "name": "GTC 400 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gtc-400-c-0601083101",
+                "sku": "0601083101",
+                "category": "Thermo cameras & detectors",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o261538v54_GTC_400C_ON_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 40612.5,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gtc-400-c-0601083101"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@type": "Product",
+                "name": "GSR 12V-15 FC",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsr-12v-15-fc-06019F6000",
+                "sku": "06019F6000",
+                "category": "Cordless drills/drivers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o236387v54_P_A_GSR_12V-15_FC_2_5Ah_comp_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 0,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsr-12v-15-fc-06019F6000"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@type": "Product",
+                "name": "GDS 18V-1600 HC",
+                "url": "https://www.bosch-professional.com/eg/en/products/gds-18v-1600-hc-06019M1002",
+                "sku": "06019M1002",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o409320v54_GDS_18V-1600_HC_8Ah_ProCore_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 49875,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gds-18v-1600-hc-06019M1002"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@type": "Product",
+                "name": "GWS 18V-8",
+                "url": "https://www.bosch-professional.com/eg/en/products/gws-18v-8-06019N9021",
+                "sku": "06019N9021",
+                "category": "Small angle grinders",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o459391v54_GWS_18V-8_4Ah_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 12825,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gws-18v-8-06019N9021"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@type": "Product",
+                "name": "GDX 18V-285",
+                "url": "https://www.bosch-professional.com/eg/en/products/gdx-18v-285-06019N2120",
+                "sku": "06019N2120",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o457783v54_GDX_18V-285_GBA_18V_4Ah_Dyn_Ghost_Image.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 6412.5,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gdx-18v-285-06019N2120"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@type": "Product",
+                "name": "GDS 18V-350",
+                "url": "https://www.bosch-professional.com/eg/en/products/gds-18v-350-06019M5020",
+                "sku": "06019M5020",
+                "category": "Impact driver/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o451521v54_451521GDS_18V-350_GBA_18V_4Ah_Dyn_Ghost_Image.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 5985,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gds-18v-350-06019M5020"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 18V-65",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-18v-65-06019N31K0",
+                "sku": "06019N31K0",
+                "category": "18 Volt system",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o483680v54_GSB_18V-65_2Ah_AMPShare_HeavyDuty_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 11400,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-18v-65-06019N31K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 18V-50",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-18v-50-06019H5100",
+                "sku": "06019H5100",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o316069v54_GSB_18v-50_dyn_2-0_ah.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 15821.34,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-18v-50-06019H5100"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@type": "Product",
+                "name": "GBH 187-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gbh-187-li-06119231K0",
+                "sku": "06119231K0",
+                "category": "Cordless rotary hammers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o426819v54_gbh_187-li_one_chuck_dyn_withicon.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 29310.57,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gbh-187-li-06119231K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@type": "Product",
+                "name": "GBH 18V-45 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gbh-18v-45-c-0611913002",
+                "sku": "0611913002",
+                "category": "Cordless rotary hammers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o304306v54_GBH_18V-45_C_12Ah_ProCORE_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 81246.59,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gbh-18v-45-c-0611913002"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@type": "Product",
+                "name": "GBH 180-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gbh-180-li-0611911121",
+                "sku": "0611911121",
+                "category": "Cordless rotary hammers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o323132v54_lv-177228-12-GBH180-LIBatteryGhost.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 26146.67,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gbh-180-li-0611911121"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@type": "Product",
+                "name": "GDX 180-Li",
+                "url": "https://www.bosch-professional.com/eg/en/products/gdx-180-li-06019G5223",
+                "sku": "06019G5223",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o374894v54_o374894v12GDX180-LI_dyn_02_alphapack.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 17878.67,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gdx-180-li-06019G5223"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@type": "Product",
+                "name": "GLI 18V-1900",
+                "url": "https://www.bosch-professional.com/eg/en/products/gli-18v-1900-0601446400",
+                "sku": "0601446400",
+                "category": "18 Volt system",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o220800v54_P_A_GLI_18V-1900_dyn_V1.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 5721.59,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gli-18v-1900-0601446400"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@type": "Product",
+                "name": "GNB 18V-38",
+                "url": "https://www.bosch-professional.com/eg/en/products/gnb-18v-38-06019L7001",
+                "sku": "06019L7001",
+                "category": "18 Volt system",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o386722v54_GNB_18V-38_4Ah_ProCore_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 52725,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gnb-18v-38-06019L7001"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@type": "Product",
+                "name": "GWS 180-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gws-180-li-06019H9021",
+                "sku": "06019H9021",
+                "category": "18 Volt system",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o344424v54_GWS180_LI_dynamic_5-0battery.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 24911.81,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gws-180-li-06019H9021"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@type": "Product",
+                "name": "GOP 18V-28",
+                "url": "https://www.bosch-professional.com/eg/en/products/gop-18v-28-06018B6002",
+                "sku": "06018B6002",
+                "category": "Multi-cutters",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o216960v54_P_A_GOP_18V-28_5_0Ah_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 15167.64,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gop-18v-28-06018B6002"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 183-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-183-li-06019K91K0",
+                "sku": "06019K91K0",
+                "category": "Impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o386784v54_GSB_183-LI_2Ah_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 6751.48,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-183-li-06019K91K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@type": "Product",
+                "name": "GDS 18V-400",
+                "url": "https://www.bosch-professional.com/eg/en/products/gds-18v-400-06019K0020",
+                "sku": "06019K0020",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o340252v54_GWS_18V-400_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 24204.62,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gds-18v-400-06019K0020"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "item": {
+                "@type": "Product",
+                "name": "GTB185-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gtb185-li-06019K7020",
+                "sku": "06019K7020",
+                "category": "Depth stop screwdrivers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o368049v54_gtb_185-li_2Ah_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 12944.53,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gtb185-li-06019K7020"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 180-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-180-li-06019F83K0",
+                "sku": "06019F83K0",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o265619v54_lv-128950-12-GSB180-LI_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 7238.52,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-180-li-06019F83K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 28,
+            "item": {
+                "@type": "Product",
+                "name": "GAL 12V-40",
+                "url": "https://www.bosch-professional.com/eg/en/products/gal-12v-40-1600A019R3",
+                "sku": "1600A019R3",
+                "category": "Batteries & chargers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o286535v54_GAL_12V-40_dyn_V2.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 2890.55,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gal-12v-40-1600A019R3"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 29,
+            "item": {
+                "@type": "Product",
+                "name": "GAL 18V-40",
+                "url": "https://www.bosch-professional.com/eg/en/products/gal-18v-40-1600A019RK",
+                "sku": "1600A019RK",
+                "category": "Batteries & chargers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o395620v54_GAL_18V-40_AMPShare_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 2890.55,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gal-18v-40-1600A019RK"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 30,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 18V-90 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-18v-90-c-06019K6106",
+                "sku": "06019K6106",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o374820v54_GSB_18V-90_C_4Ah_ProCORE_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 29752.27,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-18v-90-c-06019K6106"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 31,
+            "item": {
+                "@type": "Product",
+                "name": "GLM 120 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/glm-120-c-0601072F00",
+                "sku": "0601072F00",
+                "category": "Laser measures",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o274236v54_GLM_120_C_V2.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 0,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/glm-120-c-0601072F00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 32,
+            "item": {
+                "@type": "Product",
+                "name": "GLL 3-80 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gll-3-80-c-0601063R00",
+                "sku": "0601063R00",
+                "category": "Line lasers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o256446v54_GLL_3-80C_dyn_ON.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 23407.31,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gll-3-80-c-0601063R00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 33,
+            "item": {
+                "@type": "Product",
+                "name": "GLL 3-80 CG",
+                "url": "https://www.bosch-professional.com/eg/en/products/gll-3-80-cg-0601063T00",
+                "sku": "0601063T00",
+                "category": "Line lasers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o256452v54_GLL_3-80_CG_dyn_ON.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 0,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gll-3-80-cg-0601063T00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 34,
+            "item": {
+                "@type": "Product",
+                "name": "GLL 18V-120-33 CG",
+                "url": "https://www.bosch-professional.com/eg/en/products/gll-18v-120-33-cg-06010651K0",
+                "sku": "06010651K0",
+                "category": "Line lasers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o452665v54_o452665v12GLL_18V-120-33_CG_4Ah_ProCORE_ON_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 23940,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gll-18v-120-33-cg-06010651K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 35,
+            "item": {
+                "@type": "Product",
+                "name": "GLM 50-27 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/glm-50-27-c-0601072T00",
+                "sku": "0601072T00",
+                "category": "Laser measures",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o334377v54_334377-glm_50-27_c_front_on_laser_dyn-NEW.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 6986.08,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/glm-50-27-c-0601072T00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 36,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 18V-150 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-18v-150-c-06019J5105",
+                "sku": "06019J5105",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o348052v54_gsb_18v-150_c_8ah_procore_dyn_v1.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 37439.8,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-18v-150-c-06019J5105"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 37,
+            "item": {
+                "@type": "Product",
+                "name": "GLM 150-27 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/glm-150-27-c-0601072Z00",
+                "sku": "0601072Z00",
+                "category": "Laser measures",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o368302v54_368302-glm_150-27_c_laser_on_dyn-NEW.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 16441.91,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/glm-150-27-c-0601072Z00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 38,
+            "item": {
+                "@type": "Product",
+                "name": "GLM 100-25 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/glm-100-25-c-0601072Y00",
+                "sku": "0601072Y00",
+                "category": "Laser measures",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o368283v54_368283-glm_100-25_c_laser_on_dyn-NEW.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 14711.19,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/glm-100-25-c-0601072Y00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 39,
+            "item": {
+                "@type": "Product",
+                "name": "GLM 50 C",
+                "url": "https://www.bosch-professional.com/eg/en/products/glm-50-c-0601072C00",
+                "sku": "0601072C00",
+                "category": "Laser measures",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o206153v54_P_A_GLM50C_dynamisch_fin_Display_korr_1.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 4275,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/glm-50-c-0601072C00"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 40,
+            "item": {
+                "@type": "Product",
+                "name": "Bosch GO",
+                "url": "https://www.bosch-professional.com/eg/en/products/bosch-go-06019H2200",
+                "sku": "06019H2200",
+                "category": "Cordless drills/drivers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o417224v54_GO_3_dyn_v2.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 3261.83,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/bosch-go-06019H2200"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 41,
+            "item": {
+                "@type": "Product",
+                "name": "GSR 120-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsr-120-li-06019G80K0",
+                "sku": "06019G80K0",
+                "category": "Cordless drills/drivers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o291561v54_gsr_120-LI_dyn_02.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 6270,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsr-120-li-06019G80K0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 42,
+            "item": {
+                "@type": "Product",
+                "name": "Bosch GO",
+                "url": "https://www.bosch-professional.com/eg/en/products/bosch-go-06019H2100",
+                "sku": "06019H2100",
+                "category": "Cordless drills/drivers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o322934v54_o322934v12_lv-178603-12-bosch_go_2_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 3261.31,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/bosch-go-06019H2100"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 43,
+            "item": {
+                "@type": "Product",
+                "name": "GSB 120-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gsb-120-li-06019G81K2",
+                "sku": "06019G81K2",
+                "category": "Cordless impact drills",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o294424v54_gsb_120-LI_dyn_02.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 6733.17,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gsb-120-li-06019G81K2"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 44,
+            "item": {
+                "@type": "Product",
+                "name": "GBH 18V-18 X",
+                "url": "https://www.bosch-professional.com/eg/en/products/gbh-18v-18-x-06119271J0",
+                "sku": "06119271J0",
+                "category": "Cordless rotary hammers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o474962v54_GBH_18V-18_X_2Ah_AMPShare_OneChuck_Ghost_Image_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 8835,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gbh-18v-18-x-06119271J0"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 45,
+            "item": {
+                "@type": "Product",
+                "name": "GDS 18V-1050 H",
+                "url": "https://www.bosch-professional.com/eg/en/products/gds-18v-1050-h-06019J8522",
+                "sku": "06019J8522",
+                "category": "Cordless impact drivers/wrenches",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o333712v54_GDS_18V-1050_H_8Ah_ProCORE_ladder_clip_dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 38767.21,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gds-18v-1050-h-06019J8522"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 46,
+            "item": {
+                "@type": "Product",
+                "name": "GST 183-LI",
+                "url": "https://www.bosch-professional.com/eg/en/products/gst-183-li-06015B7020",
+                "sku": "06015B7020",
+                "category": "Jigsaws",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o429477v54_o429477v12429477GST_183-LI_4Ah_dyn_Ghost_Image.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 5343.75,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gst-183-li-06015B7020"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 47,
+            "item": {
+                "@type": "Product",
+                "name": "GLL 80-33 G",
+                "url": "https://www.bosch-professional.com/eg/en/products/gll-80-33-g-0601065501",
+                "sku": "0601065501",
+                "category": "Line lasers",
+                "image": "https://www.bosch-professional.com/binary/ocsmedia/optimized/full/o459573v54_o459573v12GLL_80_33_G_XL-Pack_ON_Dyn.png",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Bosch Professional"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "price": 18810,
+                    "priceCurrency": null,
+                    "availability": ""
+                },
+                "@id": "https://www.bosch-professional.com/eg/en/products/gll-80-33-g-0601065501"
+            }
+        }
+    ],
+    "@context": "https://schema.org",
+    "@id": "https://www.bosch-professional.com/eg/en/cordless-tools-131400-ocs-c/#itemlist"
+}
